@@ -14,10 +14,7 @@ jobs:
       # قائمة مفاتيح Tailscale (المتعددة)
       # ====================================================
       aa1: |
-        tskey-auth-kXn5GVrXKZ11CNTRL-TAhxPbx2Yz85mJs7NJWYz8LwpZDJ7JMBA
-        tskey-auth-kQNMa4SftA21CNTRL-hGNZMFwH27Jw9joeJrHV7JsUuttA3RPZX
-        tskey-auth-koVNcGnJYc11CNTRL-X5mgRtNbs7QwVxNt62Nv7QrUXdJ49uGg
-        tskey-auth-k1M2MpkRh921CNTRL-qsKZv8Bfxa77Q6dF3JEQa7TCGFqEDXnM
+        tskey-auth-kPouMugMd411CNTRL-tyJCFXEM2wVxsTbcSGpzvVXzdq5myfAYe
 
       # بيانات المستخدم
       aa2: "DDDDDDDAAAA"
